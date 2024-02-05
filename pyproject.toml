@@ -28,6 +28,8 @@ packages = [
 aiohttp = ">=3.0.0"
 python = "^3.11"
 yarl = ">=1.6.0"
+mashumaro = "^3.12"
+orjson = "^3.9.13"
 
 [tool.poetry.urls]
 "Bug Tracker" = "https://github.com/klaasnicolaas/python-powerfox/issues"
